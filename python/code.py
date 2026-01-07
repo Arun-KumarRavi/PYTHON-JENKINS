@@ -1,5 +1,5 @@
 print("🚀 Jenkins Test App")
-print("Version: 2.0")
+print("Version: 3.0")
 print("Status: Jenkins pull verification")
 
 def main():
