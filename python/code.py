@@ -1,10 +1,10 @@
 print("🚀 Jenkins Test App")
-print("Version: 1.0")
-print("Status: Initial commit from GitHub")
+print("Version: 2.0")
+print("Status: Jenkins pull verification")
 
 def main():
-    print("Hello from Python!")
-    print("Jenkins successfully pulled the code 🎉")
+    print("Hello from UPDATED Python code!")
+    print("New commit detected by Jenkins ✅")
 
 if __name__ == "__main__":
     main()
