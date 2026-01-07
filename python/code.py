@@ -8,3 +8,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+    print("Poll SCM test version 1")
